@@ -4,7 +4,6 @@ using System.IO;
 using System.Threading;
 using System.Threading.Tasks;
 using DiscordBot.Commands;
-using static System.Reflection.Assembly;
 using DSharpPlus;
 using DSharpPlus.CommandsNext;
 using DSharpPlus.Net;
